@@ -2,16 +2,16 @@
     Challenge RocketSeat - Level 2
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NicolasZim/RocketChallanges-lvl1">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NicolasZim/RocketChallanges-lvl2-NodeJS">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/NicolasZim/RocketChallanges-lvl1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/NicolasZim/RocketChallanges-lvl2-NodeJS">
   
-  <a href="https://github.com/NicolasZim/RocketChallanges-lvl1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NicolasZim/RocketChallanges-lvl1">
+  <a href="https://github.com/NicolasZim/RocketChallanges-lvl2-NodeJS/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NicolasZim/RocketChallanges-lvl2-NodeJS">
   </a>
 
-  <a href="https://github.com/NicolasZim/RocketChallanges-lvl1/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/NicolasZim/RocketChallanges-lvl1">
+  <a href="https://github.com/NicolasZim/RocketChallanges-lvl2-NodeJS/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/NicolasZim/RocketChallanges-lvl2-NodeJS">
   </a>
 
 <p align="center">
